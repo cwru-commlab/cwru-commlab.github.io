@@ -21,7 +21,7 @@ repository               : "cwru-commlab/cwru-commlab.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "189291809.png" # "profile.png"
   name             : "Prof. David Kazdan & Dr. Kristina Collins"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
